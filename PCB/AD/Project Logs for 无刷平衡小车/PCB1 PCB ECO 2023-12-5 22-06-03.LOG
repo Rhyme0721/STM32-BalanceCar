@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=MISO Pin=U1-1
+Added Pin To Net: NetName=SCK Pin=U1-2
+Added Pin To Net: NetName=CE Pin=U1-3

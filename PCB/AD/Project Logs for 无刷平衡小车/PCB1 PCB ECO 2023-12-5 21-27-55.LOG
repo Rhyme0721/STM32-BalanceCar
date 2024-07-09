@@ -1,0 +1,11 @@
+Added Component: Designator=MK1(NRF24L01)
+Added Component: Designator=U4(CONN-TH_XH2.54-6P)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "null"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "6PIN-2.54MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C9900021155"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "lcsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "6PIN-2.54MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MK1-1
+Added Pin To Net: NetName=3V3 Pin=MK1-2

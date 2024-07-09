@@ -1,0 +1,18 @@
+Added Component: Designator=J5(HDR-M-2.54_1X6)
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C190820"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "J"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "HDR-M-2.54_1x8"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=3V3 Pin=J5-6
+Added Pin To Net: NetName=CS Pin=J5-5
+Added Net: Name=CS
+Added Pin To Net: NetName=DI Pin=J5-1
+Added Net: Name=DI
+Added Pin To Net: NetName=DO Pin=J5-4
+Added Net: Name=DO
+Added Pin To Net: NetName=SLK Pin=J5-2
+Added Net: Name=SLK
